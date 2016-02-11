@@ -11,4 +11,11 @@ h2 {
 	color: #ff884d;
 	background-color:#ffffff;}
 ul {
-	background-color: #c6ecd8;}
+	background-color: #c6ecd8;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;}
+li a {
+    display: block;
+    width: 60px;
+}
