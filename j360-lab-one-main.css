@@ -14,8 +14,12 @@ ul {
 	background-color: #c6ecd8;
     list-style-type: none;
     margin: 0;
-    padding: 0;}
+    padding: 0;
+    border: 1px solid #555;}
 li a {
     display: block;
     width: 60px;
+    text-align: center
+    border-bottom: 1px solid #555;
+    
 }
