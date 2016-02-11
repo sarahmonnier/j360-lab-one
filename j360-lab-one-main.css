@@ -15,6 +15,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 60px;
     border: 1px solid #555;}
 li a {
     display: block;
@@ -22,4 +23,8 @@ li a {
     text-align: center
     border-bottom: 1px solid #555;
     
+}
+li a:hover {
+    background-color: #39ac6f;
+    color: white;
 }
