@@ -18,7 +18,7 @@ h2 {
 	color: #ff884d;
 	background-color:#9fe0bf;
 	text-align:center;}
-ul {
+.nav ul {
 	background-color: #339966;
     list-style-type: none;
     margin: 0;
@@ -27,19 +27,26 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;}
-li {
+.nav li {
 	float: left;
 	font-size: 18px;}
-li a {
+.nav li a {
     display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;}
-li a:hover{ 
+.nav li a:hover{ 
 	background-color: #194d33;
 	color: white;}
-.active {
+.nav .active {
     background-color: #194d33;
     
 }
+img {
+    max-width: 100%;
+    height: auto;
+    
+}
+
+	
