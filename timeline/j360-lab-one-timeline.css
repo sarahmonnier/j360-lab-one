@@ -12,7 +12,6 @@ h1 {
 	text-align: center;
 	}
 h2 {
-	
 	font-family: Kino MT, serif;
 	font-size: 50px;
 	color: #ff884d;
@@ -41,7 +40,7 @@ h2 {
 	color: white;}
 .nav .active {
     background-color: #194d33;
-ul {
+.timeline ul {
 	list-style-type: none;}
     
 
