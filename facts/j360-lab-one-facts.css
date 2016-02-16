@@ -3,8 +3,9 @@ body {
 .right {
     float: right;
     width: 300px;
-    border: 3px solid #73AD21;
+    border: 3px solid #ff884d;
     padding: 10px;
+    position: static;
 }
 .dropdown {
     position: relative;
@@ -24,3 +25,5 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+body {
+	font-size : 18px;}
