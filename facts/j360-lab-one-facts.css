@@ -1,5 +1,6 @@
 body {
-	text-align : left; }
+	text-align : left; 
+	}
 .right {
     float: right;
     width: 300px;
@@ -27,3 +28,13 @@ body {
 }
 body {
 	font-size : 18px;}
+div.box {
+    width:600px;
+    margin: auto;
+    border: 3px solid #9fe0bf;
+  
+}
+
+h2 {
+	text-align: center;}
+
