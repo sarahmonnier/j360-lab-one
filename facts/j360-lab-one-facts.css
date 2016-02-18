@@ -3,14 +3,14 @@ body {
 	}
 .right {
     float: right;
-    width: 300px;
+   
     border: 3px solid #ff884d;
     padding: 20px;
-    position: static;
     margin-left: 20px;
     margin-top: 10px;
     margin-bottom:10px;
     margin-right:20px;
+    position: relative;
 }
 .dropdown {
     position: relative;
@@ -31,7 +31,8 @@ body {
     display: block;
 }
 body {
-	font-size : 18px;}
+	font-size : 18px;
+	text-align : left;}
 div.box {
     width:600px;
     margin: auto;

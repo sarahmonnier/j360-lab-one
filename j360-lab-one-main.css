@@ -39,15 +39,23 @@ h2 {
     text-decoration: none;}
 .nav li a:hover{ 
 	background-color: #194d33;
-	color: white;}
+	color: #ffccb3;}
 .nav .active {
     background-color: #194d33;
     
 }
-img {
+.main img {
     max-width: 100%;
     height: auto;
-    float: center;
+    width: 300px;
+    border: 3px solid #ff884d;
+    padding: 20px;
+    position: static;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-right:20px;
+    float: right;
     
 }
 
